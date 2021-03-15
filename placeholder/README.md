@@ -6,6 +6,7 @@
 ![正常显示](placeholder1.png)
 
 删除输入文字后的显示结果:
+
 ![删除输入文字后的显示](placeholder2.png)
 
 导致原因不明确：
