@@ -15,17 +15,21 @@
 
     2. textarea需要重新渲染
 
- 针对重新渲染：
+ 针对重新渲染的方式来解决此问题：
    
     1.改变css样式
    
     2.重新替换placeholder
 
+
+
+样式:
+
     ``
-    样式:
     .rerender{
         position:relative;
     }
+    ``
 
    模板：
     
